@@ -2,7 +2,7 @@
 title: "Pracitcal Machine Learning Course Project"
 author: "Emily Kubicek"
 date: "2/27/2020"
-output: pdf_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
